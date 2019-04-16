@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tastymod",
+  "name": "Tasty",
+  "description": "A delicious food mod for Minecraft.",
+  "version": "int0.0.2",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["beefseal"],
+  "credits": "Thanks to Loremaster for his tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
